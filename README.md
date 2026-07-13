@@ -1,7 +1,3 @@
-**thinkproducer/thinkproducer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 We're currently working on: Web application penetration testing engagements — IDOR, XSS, Authentication Bypass, API Misconfiguration & Business Logic vulnerability assessments for clients
 - 🌱 We're currently learning: Advanced API security testing & complex business logic vulnerability chaining
 - 👯 We're looking to collaborate on: Open-source recon & automation tools for security research and bug bounty workflows
